@@ -86,8 +86,8 @@ Both controllers were tested in identical environments. The simulations visually
 
 ```bash
 MPC-Rover/
-├── MPC%20Model%20with%20Dynamic%20Obstacles.pdf
-├── MPC%20Model%20Demo.mp4
-├── PPC%20Model.pdf
-├── PPC%20Model%20Demo.mp4
+├── MPC Model with Dynamic Obstacles.pdf
+├── MPC Model Demo.mp4
+├── PPC Model.pdf
+├── PPC Model Demo.mp4
 ├── README.md
